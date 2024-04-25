@@ -1,4 +1,4 @@
-реализация sentiment analysis с помощью torchserve \
+Деплой модели sentiment analysis с помощью torchserve \
 Инструкция по запуску: \
 python3 dump_model.py \
 bash scripts/create-archive.sh \
